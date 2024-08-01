@@ -1,0 +1,6 @@
+D:\all_for_lab\CHM\msgUI\msgUI\x64\Debug\msgUI.vcxproj.AssemblyReference.cache
+D:\all_for_lab\CHM\msgUI\msgUI\x64\Debug\msgUI.MyForm.resources
+D:\all_for_lab\CHM\msgUI\msgUI\x64\Debug\msgUI.vcxproj.GenerateResource.cache
+D:\all_for_lab\CHM\msgUI fon\msgUI\x64\Debug\msgUI.vcxproj.AssemblyReference.cache
+D:\all_for_lab\CHM\msgUI fon\msgUI\x64\Debug\msgUI.MyForm.resources
+D:\all_for_lab\CHM\msgUI fon\msgUI\x64\Debug\msgUI.vcxproj.GenerateResource.cache

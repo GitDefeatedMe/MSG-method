@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+D:\all_for_lab\CHM\msgUI fon\msgUI\myMath.h(66,11): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\all_for_lab\CHM\msgUI fon\msgUI\myMath.h(140,11): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\all_for_lab\CHM\msgUI fon\msgUI\myMath.h(325,13): warning C4101: matrixX: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\all_for_lab\CHM\msgUI fon\msgUI\myMath.h(414,16): warning C4101: matrixX: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\all_for_lab\CHM\msgUI fon\msgUI\myMath.h(503,16): warning C4101: matrixX: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\all_for_lab\CHM\msgUI fon\msgUI\MyForm.h(731,10): warning C4101: norm: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+  KSR_2_sem.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  msgUI.vcxproj -> D:\all_for_lab\CHM\msgUI fon\x64\Debug\msgUI.exe
